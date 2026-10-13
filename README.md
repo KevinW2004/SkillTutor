@@ -14,6 +14,7 @@
 ## 我的 skill
 
 - [LCC Paper Writing](<我的 skill/README.md>)：可独立迁移的论文写作与修稿工作流，覆盖全文主线、作者授权、读者理解、实验故事、图表、润色与 LaTeX 编辑。
+- [WKW Paper Writing](<我的 skill/wkw-paper-writing/SKILL.md>)：结合写作与 AI 审稿研究，改善贡献和证据的表达，并提供可选的读后复述检查。
 
 ## 📚 来源
 
