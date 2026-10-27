@@ -2,7 +2,7 @@
 
 ## LCC Paper Writing
 
-独立的论文写作与修稿工作流，当前版本 **v0.8.0**。以作者选定的问题、机制与证据组织全文，用直白语言讲清具体机制，并由作者决定新增概念、主张、结果解释和局限性表述。
+独立的论文写作与修稿工作流，当前版本 **v0.9.0**。以作者选定的问题、机制与证据组织全文，用直白语言讲清具体机制，并由作者决定新增概念、主张、结果解释和局限性表述。
 
 - [技能主入口](lcc-paper-writing/SKILL.md)：通用规则和按任务读取的入口。
 - [ZIP 下载](lcc-paper-writing.zip)：解压后得到完整技能目录。
@@ -12,9 +12,9 @@
 | --- | --- |
 | [摘要与引言](lcc-paper-writing/reference/abstract-introduction.md) | 全文主线、摘要压缩、代表性结果与贡献分工 |
 | [实验写作](lcc-paper-writing/reference/experiment-writing.md) | 问题、选择理由、设计能力与获准的 insights |
-| [图表与图注](lcc-paper-writing/reference/figures-and-captions.md) | Teaser、方法图、图文一致、正文引用、图注与数值格式 |
+| [图表与图注](lcc-paper-writing/reference/figures-and-captions.md) | 表格底纹与强调、折线视觉层级、Teaser、图文一致与数值格式 |
 | [章节写作与修订](lcc-paper-writing/reference/manuscript-writing.md) | 提纲、标题层级、方法、公式、相关工作、结论与润色 |
-| [LaTeX 编辑与核查](lcc-paper-writing/reference/latex-editing.md) | 聚焦编辑、保护表格与引用、验证源文件和渲染结果 |
+| [LaTeX 编辑与核查](lcc-paper-writing/reference/latex-editing.md) | 顶部浮动默认偏好、聚焦编辑、保护表格与引用、源文件和版式核查 |
 | [写作边界示例](lcc-paper-writing/reference/writing-examples.md) | 概念授权、机制关系与实验解释的通用例子 |
 
 ## WKW Paper Writing
