@@ -2,7 +2,7 @@
 name: lcc-paper-writing
 description: "撰写、规划和修改研究论文，以清楚的问题、机制和证据主线组织摘要、引言、方法及实验。严格控制新增概念、主张和局限性判断，用直白语言解释具体机制，避免工程细节混入正文并保持作者原意。"
 metadata:
-  version: "0.9.0"
+  version: "0.9.1"
 ---
 
 # LCC Paper Writing
@@ -25,7 +25,7 @@ metadata:
 
 - 摘要、引言或贡献列表：读取[摘要与引言](reference/abstract-introduction.md)，检查主线、代表性结果及贡献之间的分工。
 - 实验设计叙述或结果分析：读取[实验写作](reference/experiment-writing.md)，检查目的、选择理由、结果叙事和标题。
-- Teaser、方法图、结果图表或图注：读取[图表与图注](reference/figures-and-captions.md)，检查图的分工、表格与折线的视觉层级、内容一致性和数值格式。
+- Teaser、方法图、结果图表或图注：读取[图表与图注](reference/figures-and-captions.md)，检查信息取舍、表格与折线的视觉层级、内容一致性和数值格式。
 - 新论文规划、方法、相关工作、结论、润色或翻译：读取[章节写作与修订](reference/manuscript-writing.md)中的对应部分。
 - 直接修改 LaTeX 稿件或整理投稿格式：读取[LaTeX 编辑与核查](reference/latex-editing.md)，图表默认优先顶部浮动 `[t]`，保护数据、公式与交叉引用并验证改动。
 - 难以区分授权、解释和写作边界时：读取[写作边界示例](reference/writing-examples.md)。
